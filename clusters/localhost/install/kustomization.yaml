@@ -10,3 +10,6 @@ commonLabels:
 
 resources:
   - ../../../apps/pathar-ambulance-ufe
+
+components:
+  - ../../../components/version-developers
