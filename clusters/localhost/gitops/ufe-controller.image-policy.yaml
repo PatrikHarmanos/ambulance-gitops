@@ -8,4 +8,4 @@ spec:
     name: ufe-controller # referuje ImageRepository z predchádzajúceho kroku
   policy:
     semver:
-      range: '^1.*.*'
+      range: "^1.*.*"
